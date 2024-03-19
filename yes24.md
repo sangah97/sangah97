@@ -43,18 +43,24 @@ YES24 홈페이지의 회원가입, 로그인, 로그아웃, 게시판 CRUD 기�
 #### - 회원가입 실패
 <p align=center><img width="70%" src="https://raw.githubusercontent.com/sangah97/sangah97.github.io/main/join_err.png"></p>
 
-#### - 회워가입 성공
+#### - 회원가입 성공
 <p align=center><img width="70%" src="https://raw.githubusercontent.com/sangah97/sangah97.github.io/main/join_succ.png"></p>
-
-
 <br><br>
 
 ---
 <br><br>
 
 ### 1:1문의
-<p align=center><img width="80%" src="https://private-user-images.githubusercontent.com/25915110/313925571-e8b9db86-1bd0-46d9-bd08-cf6f9fb1c962.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA4MjQ1MzUsIm5iZiI6MTcxMDgyNDIzNSwicGF0aCI6Ii8yNTkxNTExMC8zMTM5MjU1NzEtZThiOWRiODYtMWJkMC00NmQ5LWJkMDgtY2Y2ZjlmYjFjOTYyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE5VDA0NTcxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4M2RjOWM3MzY0ZmFjZjZmMTVlNmNjMWFlYzcwMzM3OWQ3Y2IyNWM1YjdhYzE5YzgxNmEzYTdkYzk1ZjYzZGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wRuL3C_XF3KjXw9GUlgfvSV3DTtU3b5RbIeviTp4RM8"></p>
+<p align=center><img width="70%" src="https://private-user-images.githubusercontent.com/25915110/313925571-e8b9db86-1bd0-46d9-bd08-cf6f9fb1c962.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA4MjQ1MzUsIm5iZiI6MTcxMDgyNDIzNSwicGF0aCI6Ii8yNTkxNTExMC8zMTM5MjU1NzEtZThiOWRiODYtMWJkMC00NmQ5LWJkMDgtY2Y2ZjlmYjFjOTYyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE5VDA0NTcxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4M2RjOWM3MzY0ZmFjZjZmMTVlNmNjMWFlYzcwMzM3OWQ3Y2IyNWM1YjdhYzE5YzgxNmEzYTdkYzk1ZjYzZGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wRuL3C_XF3KjXw9GUlgfvSV3DTtU3b5RbIeviTp4RM8"></p>
 
+#### - 문의 작성
+<p align=center><img width="70%" src="https://private-user-images.githubusercontent.com/25915110/313956556-68fd908c-2c03-4423-b4d5-06c4c9aff081.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA4MzI3MzIsIm5iZiI6MTcxMDgzMjQzMiwicGF0aCI6Ii8yNTkxNTExMC8zMTM5NTY1NTYtNjhmZDkwOGMtMmMwMy00NDIzLWI0ZDUtMDZjNGM5YWZmMDgxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE5VDA3MTM1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMxMzA2OGQ3ZmViMzAzYTljNmEyYmUzNjU3ZjNhYTAwMzY2NzVkZTJmMWY0OTQ5NDQ4ODlkMGNmNzgxNmYxOTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WX4Pexqaz6gfVoe2Vj8Pry1QW8g65gKnK8lUrPEbONM"></p>
+
+#### - 문의 수정
+<p align=center><img width="70%" src="https://private-user-images.githubusercontent.com/25915110/313956445-a31592fb-7239-43de-aa06-2085a7d9a174.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA4MzI3NjMsIm5iZiI6MTcxMDgzMjQ2MywicGF0aCI6Ii8yNTkxNTExMC8zMTM5NTY0NDUtYTMxNTkyZmItNzIzOS00M2RlLWFhMDYtMjA4NWE3ZDlhMTc0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE5VDA3MTQyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiNTU4ODNhZGVkM2JkYTMyYWRkNjliYjRmNTkyYzAyMzQwMzA0NjE2YWY4ZjE2ZGQ2ZjgxZDAxN2Y4NzM2YzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jHUH0-POhCyJ_a4uUQWhvJJC3YTvZmSKrcqt9kscv5w"></p>
+
+#### - 문의 삭제
+<p align=center><img width="70%" src="https://private-user-images.githubusercontent.com/25915110/313956275-ff308d86-6b8e-48f4-936f-1476d3969be5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA4MzI3NzcsIm5iZiI6MTcxMDgzMjQ3NywicGF0aCI6Ii8yNTkxNTExMC8zMTM5NTYyNzUtZmYzMDhkODYtNmI4ZS00OGY0LTkzNmYtMTQ3NmQzOTY5YmU1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE5VDA3MTQzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhYTlkYTU2MTZjNDk2NDczOGJiNTE2MzI3MGY0NDYxYjA3ZjY4Yjc0MzVjNTlkYTQ1ZjE2MDA1NDc4OTVlMTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dPXHNcvZGPHQjITeTQMS3VEhUum4DS25CBr0hv4_Nng"></p>
 <br><br>
 
 ---
