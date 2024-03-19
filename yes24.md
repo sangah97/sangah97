@@ -30,3 +30,10 @@ YES24 홈페이지의 회원가입, 로그인, 로그아웃, 게시판 CRUD 기�
 
 ### 1:1문의
 <p align=cneter><img src="https://private-user-images.githubusercontent.com/25915110/313925571-e8b9db86-1bd0-46d9-bd08-cf6f9fb1c962.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA4MjQ1MzUsIm5iZiI6MTcxMDgyNDIzNSwicGF0aCI6Ii8yNTkxNTExMC8zMTM5MjU1NzEtZThiOWRiODYtMWJkMC00NmQ5LWJkMDgtY2Y2ZjlmYjFjOTYyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE5VDA0NTcxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4M2RjOWM3MzY0ZmFjZjZmMTVlNmNjMWFlYzcwMzM3OWQ3Y2IyNWM1YjdhYzE5YzgxNmEzYTdkYzk1ZjYzZGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wRuL3C_XF3KjXw9GUlgfvSV3DTtU3b5RbIeviTp4RM8"></p>
+
+<br><br>
+## 💙기능소개 .mp4
+
+
+https://github.com/sangah97/sangah97/assets/25915110/0139e22a-1114-404e-adbc-4880aecac997
+
