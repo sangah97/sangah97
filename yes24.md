@@ -7,8 +7,10 @@
 - 선수민
 - 안재혁
 - 장진수
+  
 ### 프로젝트 목표
 YES24 홈페이지의 회원가입, 로그인, 로그아웃, 게시판 CRUD 기능 구현
+
 ### 사용 프로그램
 - 서버환경 : tomcat 9.0
 - JSP : 2.3 / servlet3.1 / JDK 1.8.0
@@ -16,6 +18,7 @@ YES24 홈페이지의 회원가입, 로그인, 로그아웃, 게시판 CRUD 기�
 - DB : Oracle 11g (로컬)
 - O/S : Windows
 - Tool : Eclipse
+- 
 ### 정보 구조 설계
 <p align=center><img width="80%" src="https://github.com/sangah97/sangah97.github.io/blob/main/yes24_diagram.png"></p>
 
