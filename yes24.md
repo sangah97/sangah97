@@ -1,4 +1,5 @@
 # [Team Project] Yes24 홈페이지 가상 리뉴얼
+## 💙프로젝트 소개
 ### Team Member
 - 이상아
 - 김지혜
@@ -6,10 +7,8 @@
 - 선수민
 - 안재혁
 - 장진수
-##
 ### 프로젝트 목표
 YES24 홈페이지의 회원가입, 로그인, 로그아웃, 게시판 CRUD 기능 구현
-##
 ### 사용 프로그램
 - 서버환경 : tomcat 9.0
 - JSP : 2.3 / servlet3.1 / JDK 1.8.0
@@ -17,9 +16,11 @@ YES24 홈페이지의 회원가입, 로그인, 로그아웃, 게시판 CRUD 기�
 - DB : Oracle 11g (로컬)
 - O/S : Windows
 - Tool : Eclipse
-##
 ### 정보 구조 설계
 ![정보구조설계](https://github.com/sangah97/sangah97.github.io/blob/main/yes24_diagram.png "정보구조설계이미지")
-##
 ### DB 설계
 ![ERD](https://github.com/sangah97/sangah97.github.io/blob/main/yes24_erd.png "Entity Relationship Diagram")
+<br><br>
+## 💙기능소개
+### 로그인
+<p align=center><img src="https://private-user-images.githubusercontent.com/25915110/313909597-7d6842c0-3195-480a-b2fa-559640655c44.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA4MjAyNzIsIm5iZiI6MTcxMDgxOTk3MiwicGF0aCI6Ii8yNTkxNTExMC8zMTM5MDk1OTctN2Q2ODQyYzAtMzE5NS00ODBhLWIyZmEtNTU5NjQwNjU1YzQ0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE5VDAzNDYxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyM2E1OWI3MmNiNzU2OGE5ZWI5M2FlYjQ1NTUyZTgzOGJiOTVlNzQxODMxMjdiOTNiMTA1MjM3OWUyOGFmYzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.I4hxUlnLp0wkMzOFMriHNHqmIt7MQ6NY6EMVZyTU54Y"></p>
