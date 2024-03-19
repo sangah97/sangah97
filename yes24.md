@@ -19,3 +19,7 @@ YES24 홈페이지의 회원가입, 로그인, 로그아웃, 게시판 CRUD 기�
 - Tool : Eclipse
 ##
 ### 정보 구조 설계
+![정보구조설계](https://github.com/sangah97/sangah97.github.io/blob/main/yes24_diagram.png "정보구조설계이미지")
+##
+### DB 설계
+![ERD](https://github.com/sangah97/sangah97.github.io/blob/main/yes24_erd.png "Entity Relationship Diagram")
