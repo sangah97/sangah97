@@ -1,25 +1,27 @@
-<h1 align="center">Hi, I'm SANGAH LEE!</h1>
+<img width='100%' src="https://github.com/sangah97/sangah97.github.io/blob/main/git_header.png">
+<h1 align="center" style='color:"#0bbded6";'>Hi, I'm SANGAH LEE!</h1>
 <h3 align="center">
   Front-End & Back-End 풀스택 개발자 이상아 입니다.
 </h3>
-<br /><br />
-<p>
-신
-  입
-    개
-      발
-        자
-          구
-            직
-              주 
-                웅
+<br />
+
+<h3 align="center>About Me<h3>
+<p align='center'>  
+Information Technology 전공 🎒 Major in Information Technology <br>
+풀스택 자바웹개발자 NCS 과정 수료  📚 Certified NCS Full Stack Developer Program <br>
 </p>
-  
-- 💼 IT 풀스택 강의가 필요하세요? 의뢰해 주세요, [email](mailto:indopop@naver.com) :)
-- 💬 어떠한 것이든 문의해 주세요, 기꺼이 도움을;;
 <br>
 
-**My tech stack :**  
+
+<h3 align="center>Contact<h3>
+<p align='center'>
+🤍 sangahlee97@gmail.com 🤍 <br>
+💚 https://skyfolio2024.modoo.at/ 💚 <br>
+💙 https://www.linkedin.com/in/sangah-lee-15095b251/ 💙 <br>
+</p>
+<br>
+
+<h3 align="center">Abilities</h3>
 - Backend web development (Java, Servlet/JSP)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
 - Oracle, MySQL
@@ -32,6 +34,7 @@
   <!-- 뱃지 아이콘 사이트 -->
   <!--   <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
   
+<h3 align="center">Skills</h3>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=339933"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/></p>
 
 <p><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JAVA-8F0000?style=flat&logo&logoColor=4479A1"/></p>
@@ -48,14 +51,11 @@
 <br>
 
 
-
 ### hey there 
 <a href="https://skyfolio2024.modoo.at/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
+
+### ??
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/sangah97/github-readme-stats)
